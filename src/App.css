@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.navbar {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-left: 9px;
+
+}
+
+.ulnav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 30px;
+      height: 72px;
+      list-style-type: none;
+      font-family: 'poppins'
+
+}
+
+.loginbutton {
+      background-color: red;
+      border-color: red;
+      color: white;
+      font-weight: 500;
+      width: 75px;
+      height: 31px;
+      top: 21px;
+      left: 1286px;
+      padding: 6px, 16px, 6px, 16px;
+      gap: 10px
+}
+
+.centerdiv {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-left: 50px;
+}
+
+.centercard {
+
+      padding-top: 100px;
+
+
+      width: 500px;
+      height: 613px;
+      top: 152px;
+      left: 157px
+}
+
+.shopnowbutton {
+      display: flex;
+      gap: 30px;
+}
+
+
+
+.catogerybutton {
+      background: transparent;
+      width: 150px;
+      height: 41px;
+      padding: 6px, 16px, 6px, 16px;
+      gap: 10px;
+      font-family: 'poppins';
+      color: gray;
+}
+
+.headtext {
+      font-size: 70px;
+      font-weight: 800;
+      line-height: 70px;
+      font-family: 'Poppins';
+
+}
+
+.icons {
+      display: flex;
+      gap: 16px;
+}
+
+.subheadline {
+      font-family: 'Poppins';
+      font-size: 16px;
+      line-height: 24px;
+      max-width: 400px;
+}
+
+.shopbutton {
+      background-color: red;
+      border-color: red;
+      font-family: 'poppins';
+      color: white;
+      width: 150px;
+      height: 41px;
+      padding: 6px, 16px, 6px, 16px;
+      gap: 10px
+}
